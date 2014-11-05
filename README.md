@@ -9,7 +9,7 @@ Add a bookmark to your Chrome with the following content:
     
 Then go to your timeline, and click your bookmark file.
 
-The process will scroll on your timeline until it cannot find something new, than will get to the top of the page showing you a little box with a button that you need to click to clean your entire wall.
+The process will scroll on your timeline until it cannot find something new, then will get to the top of the page showing you a little box with a button that you need to click to clean your entire wall.
 
 Click it and wait until it has finished. At the end of the process the page will refresh, you should see no more posts on your timeline.
     
